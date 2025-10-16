@@ -13,5 +13,5 @@
 
 **Jogadores**
 
-- ⛂ Peça Renato
+- ⛂ Peça Renato.
 - ⛀ Peça Abraão
