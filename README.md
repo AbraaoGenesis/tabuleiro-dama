@@ -13,5 +13,5 @@
 
 **Legenda**
 
-- ⛂ Peça preta
-- ⛀ Peça branca
+- ⛂ Peça Renato
+- ⛀ Peça Abraão
