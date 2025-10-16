@@ -13,5 +13,6 @@
 
 **Jogadores**
 
+Vencedore- Abraão - peça branca.
 - ⛂ Peça Renato
 - ⛀ Peça Abraão
